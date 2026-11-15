@@ -43,4 +43,14 @@ int main(){
 
 void Print_Tenth(){
     //implementation goes here
+    for (int i = 1; i>=52; i++){
+        converted = ((value_to_convert >> i) & 1);
+        if ((i%10) == 1){
+            printf("Index %d: Every 10th iteration.\n", i);
+        }
+        if ((i%11) == 1){
+            printf("Index %d: Following the 10th iteration.\n", i);
+        }
+    }
 }
+
