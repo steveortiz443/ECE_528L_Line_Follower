@@ -72,7 +72,7 @@ void Print_Tenth(){
 
 The lab reinforced C programming concepts and practices through hands-on testing. During two unrecorded trials, the robot navigated the maze and returned to its starting point. The robot did not complete the same route during any recorded trial, as the video below shows its best recorded attempt.
 
-
+https://youtu.be/xT-jhgVn0j8
 
 ## 5. Known Issues or Limitations
 
